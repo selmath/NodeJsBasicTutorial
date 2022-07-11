@@ -1,0 +1,19 @@
+{
+  "name": "05tut-webserver",
+  "version": "1.0.0",
+  "description": "tutorial project to learn npm",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "selmath usman",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.28.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
