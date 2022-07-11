@@ -1,0 +1,4 @@
+2022Jul04	20:49:13	068ff865-b6dc-48a2-9769-cd7ffe967a4d	Error: Not allowed by CORS
+2022Jul05	11:47:53	260995e0-b8bf-4e6c-bd0e-0538901d9c86	TypeError: data.empployees is not iterable
+2022Jul05	11:51:12	85873fb1-dfd0-4fc8-b2c3-ab24a6721769	TypeError: data.setEmployees is not a function
+2022Jul09	20:45:58	eb369a84-328c-41ee-b10e-55fab9d56b0a	TypeError: allowedOrigins.indexOf is not a function
