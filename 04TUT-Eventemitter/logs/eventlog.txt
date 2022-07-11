@@ -1,0 +1,3 @@
+2022Jun14	14:37:15	f8acf221-56d7-4fbf-968b-4a45a0860ebe	Log event emitted!
+2022Jun14	14:37:26	cec151fb-fe5d-4542-a139-4bba7a2ba5b1	Log event emitted!
+2022Jun14	14:37:37	94dc8d90-75b3-421f-b729-a0445cd58b9e	Log event emitted!
