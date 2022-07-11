@@ -1,0 +1,1 @@
+2022Jul04	20:49:13	068ff865-b6dc-48a2-9769-cd7ffe967a4d	Error: Not allowed by CORS
