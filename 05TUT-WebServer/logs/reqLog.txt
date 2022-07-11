@@ -1,0 +1,12 @@
+2022Jun15	14:49:34	a299a373-b076-4f02-85d2-cb5af457b15a	/new-page.html	GET
+2022Jun15	14:49:34	1219a3fc-3cc7-4635-b13a-71b8cb651bad	/css/style.css	GET
+2022Jun15	14:49:34	c2e23863-db8a-45bc-a339-5b51a33b3b19	/img/img1.jpg	GET
+2022Jun15	14:49:42	163680e2-8cf0-4724-99f7-dd84c33d7d3e	/	GET
+2022Jun15	14:49:42	6953045d-47fb-46fc-896d-2f7c2e213c58	/css/style.css	GET
+2022Jun15	14:49:49	14af6dbf-cc95-4a90-b456-634d4367e570	/old.html	GET
+2022Jun15	14:49:49	c063e70c-93ec-4ed3-ac18-0e516f653421	/css/style.css	GET
+2022Jun15	14:50:18	8c81b319-b225-4d67-a07c-647b02bab697	/old.html	GET
+2022Jun15	14:50:23	d834b1ae-49f5-48c5-988e-f42a08b023f0	/new-page.html	GET
+2022Jun15	14:50:41	b25eb1c5-8ceb-45d6-ba8e-f1b3c0a3db0d	/new-page.html	GET
+2022Jun15	14:50:41	97e5930a-7e4d-4677-b5b3-0ce5c8c1713b	/css/style.css	GET
+2022Jun15	14:50:41	4d45a395-48d7-433d-a098-fbf6af2ed816	/img/img1.jpg	GET
